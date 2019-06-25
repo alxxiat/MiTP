@@ -1,0 +1,12 @@
+Kuchnia
+Jesteś w niewielkim pomieszczeniu o posadzce brudnej od obierków i resztek jedzenia.
+Sypialnia
+Stoi tu komoda.
+Biuro
+Stoi tutaj biurko.
+Balkon
+Roztacza się stąd widok na całe miasto. O barierkę oparta jest kusza.
+Łazienka
+Można się tu umyć.
+Korytarz
+Buty.
